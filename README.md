@@ -1,30 +1,22 @@
-### Hi, I'm Trikesh 👋
+<div align="center">
 
-I build calm, native Apple apps in Swift. BCA student (Cloud Computing & Cybersecurity) in New Delhi, on an
-offensive-security track alongside.
+## Trikesh
 
----
+Swift developer in New Delhi · I build calm, native apps for Apple devices
 
-### 🍎 Now shipping: [Brim](https://github.com/trikeshswamy/Brim)
+<br>
 
-<a href="https://github.com/trikeshswamy/Brim"><img src="https://raw.githubusercontent.com/trikeshswamy/Brim/main/.github/media/island.jpg" width="560" alt="Brim open under the MacBook notch, showing a song, cover art, progress and controls"></a>
+<a href="https://github.com/trikeshswamy/Brim"><img src="https://raw.githubusercontent.com/trikeshswamy/Brim/main/.github/media/island.jpg" width="640" alt="Brim under the MacBook notch, playing a song"></a>
 
-A quiet Dynamic Island for Apple silicon Macs: music with synced lyrics, volume and brightness, a focus timer and
-your next meeting, at the top of the screen. Free, open source, no tracking.
+### Brim
 
-[Download](https://github.com/trikeshswamy/Brim/releases/latest) · [Website](https://brim-site.vercel.app) · [Source](https://github.com/trikeshswamy/Brim)
+A quiet Dynamic Island for Apple silicon Macs.<br>
+Music and lyrics, volume, a focus timer and your next meeting, right under the notch.
 
-### Projects
+[**Download**](https://github.com/trikeshswamy/Brim/releases/latest) · [Website](https://brim-site.vercel.app) · [Source](https://github.com/trikeshswamy/Brim)
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**Brim**](https://github.com/trikeshswamy/Brim) | Dynamic Island for the Mac notch | Swift, SwiftUI, AppKit |
-| [**LoanLens**](https://loanlensapp.vercel.app) | iOS loan calculator: compare loans, amortisation, prepayments, PDF export | Swift, SwiftUI, Supabase |
+<br>
 
-### Stack
+<sub>Swift · SwiftUI · AppKit · TypeScript · Next.js &nbsp;|&nbsp; Working toward eJPT and OSCP</sub>
 
-Swift · SwiftUI · AppKit · Xcode · TypeScript · Next.js · Supabase · Git
-
-### Learning
-
-Security+ → eJPT → OSCP. Lab writeups will land here as I go.
+</div>
