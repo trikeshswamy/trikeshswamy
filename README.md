@@ -2,7 +2,7 @@
 
 ## Trikesh
 
-Swift developer in New Delhi · I build calm, native apps for Apple devices
+Swift developer · I build calm, native apps for Apple devices
 
 <br>
 
